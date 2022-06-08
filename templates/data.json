@@ -1,0 +1,51 @@
+{
+  "naruto_or_something": {
+    "name": "anime.png",
+    "x": 2952,
+    "y": -8167,
+    "width": 95,
+    "height": 98
+   },
+  "jackal_communist": {
+    "name": "jammunist.jpg",
+    "x": 2519,
+    "y": -7946,
+    "width": 368,
+    "height": 368
+   },
+  "molniyoba": {
+    "name": "main.png",
+    "x": 1397,
+    "y": -11130,
+    "width": 115,
+    "height": 55
+   },
+  "gay": {
+    "name": "abu_gay.png",
+    "x": 10029,
+    "y": -15954,
+    "width": 820,
+    "height": 852
+   },
+  "necto": {
+    "name": "fraer.png",
+    "x": 28939,
+    "y": -12486,
+    "width": 61,
+    "height": 70
+   },
+  "base": {
+    "name": "base.png",
+    "x": 2240,
+    "y": -7823,
+    "width": 603,
+    "height": 384
+   },
+  "kuckli": {
+    "name": "tokyoghoulre.png",
+    "x": -18451,
+    "y": 21600,
+    "width": 897,
+    "height": 1278
+   }
+}

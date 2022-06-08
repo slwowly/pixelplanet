@@ -8,4 +8,4 @@
 * ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/msedge.png) [Tampermonkey](https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s)
 
 #### Пассо 2: Установи скрипт
-<a href="https://raw.githubusercontent.com/TheGorox/pixelPlanetTemplate/master/minimap.user.js">скочать</a>
+<a href="https://raw.githubusercontent.com/slwowly/pixelplanet/master/minimap.user.js">скочать</a>
